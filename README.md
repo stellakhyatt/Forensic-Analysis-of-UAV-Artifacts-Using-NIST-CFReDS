@@ -27,5 +27,10 @@ NIST CFReDS Drone Dataset
 - 'screenshots/' - screenshots from FTK Imager and CsvView
 - 'report/' - final report materials
 
-## Status 
-In progress
+## Current Progress
+- Deliverable 1 and Deliverable 2 uploaded
+- Screenshots from FTK Imager and CsvView added
+- Initial project structure created
+
+## Notes
+Raw DAT flight log files were analyzed locally because the original fiels were too large to upload directly to GitHub.
